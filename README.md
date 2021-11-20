@@ -2,7 +2,7 @@
 **Forensics Investigation Team Demonstrates how to Recover Deleted Files using Foremost on Linux
 **
 
-If you have important files that got deleted, you can digitally recover these files using a program called Foremost and a Linux command-line. 
+If you have important files that got deleted, you can digitally recover these files using a program called Foremost on the Linux command-line. 
 
 For our project, we, the Forensics Investigation Team (F.I.T.), created a ZIP file that contains a toolkit for recovering lost files. Our ZIP file includes a guide to using Foremost and a virtual disk image. You can find the link to our ZIP file at the end of this README.md. 
 
