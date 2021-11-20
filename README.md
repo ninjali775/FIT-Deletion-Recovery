@@ -4,7 +4,7 @@
 
 If you have important files that got deleted, you can digitally recover these files using a program called Foremost and a Linux command-line. 
 
-For our project, we, the Forensics Investigation Team (F.I.T.), created a ZIP file that contains a toolkit for recovering lost files. Our ZIP file includes a guide to using Foremost as well as a virtual disk image. You can find the link to our ZIP file at the end of this README.md. 
+For our project, we, the Forensics Investigation Team (F.I.T.), created a ZIP file that contains a toolkit for recovering lost files. Our ZIP file includes a guide to using Foremost and a virtual disk image. You can find the link to our ZIP file at the end of this README.md. 
 
 When you extract our ZIP file, you will find a guide with the filename, "How to Recover Deleted Files.". We made our guide, in the form of an infographic, which contains step-by-step instructions on how to use Foremost to recover a deleted image. In the ZIP file you will also find a virtual disk image with the filename, "forensics-investigators-kali-linux.ova". Please download this virtual disk image onto your computer to access it in your Oracle VM VirtualBox Manager. You may need to install the Oracle VM VirtualBox Manager before attempting to open this virtual machine. 
 
