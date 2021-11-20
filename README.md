@@ -8,7 +8,7 @@ For our project, we, the Forensics Investigation Team (F.I.T.), created a ZIP fi
 
 When you extract our ZIP file, you will find a guide with the filename, "How to Recovered Deleted Files.". We made our guide, in the form of an infographic, which contains step-by-step instructions on how to use Foremost to recover a deleted image. In the ZIP file you will also find a virtual disk image with the filename, "forensics-investigators-kali-linux.ova". Please download this virtual disk image onto your computer to access it in your Oracle VM VirtualBox Manager. You may need to install the Oracle VM VirtualBox Manager before attempting to open this virtual machine. 
 
-Feel free to use the virtual machine we created to practice your deletion-and-recovery skills. For more information on our team's mini deletion-and-recovery exercise, please click on the README.txt icon that we installed onto the hard drive of forensics-investigators-kali-linux.ova to begin the exercise. Good luck!
+Feel free to use the virtual machine we created to practice your deletion-and-recovery skills. For more information on our team's mini deletion-and-recovery exercise, please click on the README.txt icon that we installed onto the hard drive of forensics-investigators-kali-linux.ova to begin recovering files. Good luck!
 
 Download our ZIP file here and start recovering files:
 https://drive.google.com/file/d/1JHITsS6o6JcdvT_DgZ5zRRW7BZ9KLUJd/view?usp=sharing
